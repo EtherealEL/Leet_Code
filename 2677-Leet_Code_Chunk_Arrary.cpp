@@ -18,7 +18,7 @@ int main()
 
 	while (index < array_length)
 	{
-		cout << " ";
+		cout << "[ ";
 
 		//print one chunk
 		for (int count = 0; count < chunk_size && index < array_length; count++)
